@@ -38,11 +38,12 @@ I excelled at analyzing and selecting appropriate platforms to meet the client's
 Working through the design document allowed me to develop a structured approach to software design, focusing on compatability, memory management, and user experience. This process helped me break down complex requirements and consider practical solutions before implementation. 
 
 4. If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
-I would improve 
+
+If I could revise one part of my work, it would be the security recommendations section. While I addressed user data protection through basic measures like encryption and multi-factor authentication, I believe this area could be strengthened with additional strategies. I would expand on threat modeling and risk assessment to identify specific vulnerabilities that could impact a cross-platform environment. Additionally, incorporating network security protocols—like VPNs for secure connections and regular vulnerability scanning—could further enhance the design. These improvements would make the system even more resilient against potential security threats, ensuring user trust and data integrity across platforms.
 
 5. How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
 
-I focused on user requirements by ensuring cross-platform compatability, data security, and efficient memory use. Meeting user needs is essential because it guarantees that the final product will perform reliably and deliver a smooth experience across various devices, which in turn increases user satisfaction. 
+I interpreted the user’s needs by focusing on their requirement for a seamless experience across multiple platforms. To address this, I prioritized cross-platform compatibility by recommending Linux, which supports diverse operating environments and provides scalability for future growth. Data security was also key, so I incorporated encryption protocols and multi-factor authentication to safeguard user information. For efficient memory use, I suggested memory management techniques, like dynamic allocation, to ensure the application runs smoothly without lag or crashes. Meeting these needs is crucial because it directly impacts the reliability and usability of the final product, ensuring that users have a consistent, secure experience regardless of their device. This attention to user needs is essential for achieving high user satisfaction and fostering long-term engagement.
 
 6. How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
 
