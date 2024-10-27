@@ -26,17 +26,22 @@ These projects were designed to challenge my understanding of system design and 
 
 ## Reflection
 1. Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+The Gaming Room is a client aiming to expand their game, Draw It or Lose It, to multiple operating systems. They required a scalable, secure software design that supports a distributed environment and allows cross-platform interaction for their users.
 
 2. What did you do particularly well in developing this documentation?
+I excelled at analyzing and selecting appropriate platforms to meet the client's needs for scalability, performance, and security. My recommendations emphasized using linux for its flexibility, open-source nature, and ability to support large-scale, distributed applications.
 
 3. What about the process of working through a design document did you find helpful when developing the code?
+Working through the design document allowed me to develop a structured approach to software design, focusing on compatability, memory management, and user experience. This process helped me break down complex requirements and consider practical solutions before implementation. 
 
 4. If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+I would improve 
 
 5. How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+I focused on user requirements by ensuring cross-platform compatability, data security, and efficient memory use. Meeting user needs is essential because it guarantees that the final product will perform reliably and deliver a smooth experience across various devices, which in turn increases user satisfaction. 
 
 6. How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
-
+I approached this design with a focus on system scalability, cross-platform compatability, and security. In future projects, I will continue to emphasize these elements, ensuring that each system component aligns with client requirements and end-user expectations for robust and adaptable software. 
 
 ## Future Applications
 The skills I honed through these projects are transferable to other areas of software development, especially those involving system design and platform compatibility. Whether working with more complex distributed systems, developing security protocols for cross-platform data, or scaling applications to meet high user demand, the principles learned in CS230 will support my ability to create reliable, scalable, and user-focused solutions.
